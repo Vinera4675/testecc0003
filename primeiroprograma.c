@@ -7,11 +7,11 @@ int main(void)
     int c;
     float media;
     
-    printf("Dgite sua primeira nota: \n");
+    printf("Digite sua primeira nota: \n");
     scanf("%d",&a);
-     printf("Dgite sua segunda nota: \n");
+     printf("Digite sua segunda nota: \n");
     scanf("%d",&b);
-    printf("Dgite sua terceira nota: \n");
+    printf("Digite sua terceira nota: \n");
     scanf("%d",&c);
     
     media = (a+b+c)/3;
